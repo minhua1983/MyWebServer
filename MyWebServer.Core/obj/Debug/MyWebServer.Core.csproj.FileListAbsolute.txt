@@ -4,3 +4,4 @@ D:\minhua\workspace\MyWebServer\MyWebServer.Core\bin\Debug\MyWebServer.Core.pdb
 D:\minhua\workspace\MyWebServer\MyWebServer.Core\obj\Debug\MyWebServer.Core.exe
 D:\minhua\workspace\MyWebServer\MyWebServer.Core\obj\Debug\MyWebServer.Core.pdb
 D:\minhua\workspace\MyWebServer\MyWebServer.Core\bin\Debug\App.config
+D:\minhua\workspace\MyWebServer\MyWebServer.Core\obj\Debug\MyWebServer.Core.csprojResolveAssemblyReference.cache

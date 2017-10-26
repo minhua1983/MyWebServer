@@ -16,12 +16,14 @@ namespace MyWebServer.Core
         static object lockHelper = new object();
         //UI程序进程，只允许一个
         static Process process;
-        //获取UI进程路径
+        //获取配置
         static string clientLocation = ConfigurationManager.AppSettings["ClientLocation"];
+        static string webServerIP = ConfigurationManager.AppSettings["WebServerIP"];
+        static int webServerPort = int.Parse(ConfigurationManager.AppSettings["WebServerPort"]);
 
         static void Main(string[] args)
         {
-            IPEndPoint ip = new IPEndPoint(IPAddress.Parse("192.168.2.67"), 12000);
+            IPEndPoint ip = new IPEndPoint(IPAddress.Parse(webServerIP), webServerPort);
             TcpListener tcpListener = new TcpListener(ip);
             tcpListener.Start(10);
 
@@ -42,7 +44,7 @@ namespace MyWebServer.Core
                         }
                     }
 
-                    
+
                 }
             }
 
