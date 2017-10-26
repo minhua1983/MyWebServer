@@ -1,0 +1,9 @@
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\bin\Debug\MyWebServer.UI.exe.config
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\bin\Debug\MyWebServer.UI.exe
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\bin\Debug\MyWebServer.UI.pdb
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\obj\Debug\MyWebServer.UI.csprojResolveAssemblyReference.cache
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\obj\Debug\MyWebServer.UI.Form1.resources
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\obj\Debug\MyWebServer.UI.Properties.Resources.resources
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\obj\Debug\MyWebServer.UI.csproj.GenerateResource.Cache
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\obj\Debug\MyWebServer.UI.exe
+D:\minhua\workspace\MyWebServer\MyWebServer.UI\obj\Debug\MyWebServer.UI.pdb
