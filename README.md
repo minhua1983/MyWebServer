@@ -1,7 +1,6 @@
 # 自定义web服务器
 
-## 作用
-用于演示通过url访问自定义web服务器，从而实现在本地自动打开某个应用程序。
+一个基于System.Net.Sockets.TcpListener的简单的web服务器demo，用于演示通过url访问自定义web服务器，从而实现在本地自动打开某个应用程序。
 
 ## 如何配置
 * 找到MyWebServer.Core\bin\Debug\App.config中AppSettings下key为ClientLocation的项，修改其value可以设置应用程序路径
